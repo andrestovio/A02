@@ -29,18 +29,18 @@ ___
 ___
 ## Part 2: Glossary
 
-#### Branch: A repository that allows you to modify and make changes 
-#### Clone: This is used to replicate a certain repository or branch inside a repository
-#### Commit: Modifications are saved to the local repository
-#### Fetch: This uses the remote repository to retrieve the updates
-#### GIT: A software that lets you save a point as many times as you would like
-#### GitHub: An online platform that lets you host and share code repositories
-#### Merge: This mixes the modifications from one branch into another
-#### Merge Conflict: A problem that arises when information on a local file differs from what is on a remote depository
-#### Push: It adds local commits to the remote branch update
-#### Pull: It updates every remote tracking branch as well as your current local working branch
-#### Remote: It handles the collection of remotes that your local repository is tracking for you
-#### Repository: A location where project files are stored for revision
+#### **Branch:** A repository that allows you to modify and make changes 
+#### **Clone:** This is used to replicate a certain repository or branch inside a repository
+#### **Commit:**  Modifications are saved to the local repository
+#### **Fetch:**  This uses the remote repository to retrieve the updates
+#### **GIT:**  A software that lets you save a point as many times as you would like
+#### **GitHub:**  An online platform that lets you host and share code repositories
+#### **Merge:**  This mixes the modifications from one branch into another
+#### **Merge Conflict:**  A problem that arises when information on a local file differs from what is on a remote depository
+#### **Push:**  It adds local commits to the remote branch update
+#### **Pull:**  It updates every remote tracking branch as well as your current local working branch
+#### **Remote:**  It handles the collection of remotes that your local repository is tracking for you
+#### **Repository:**  A location where project files are stored for revision
 
 ___
 ## References
