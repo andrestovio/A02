@@ -1,45 +1,51 @@
 # A02
+___
+## Part 1: Installing and Setting Up Git, GitHub, and Webstorm
+___
+### Installing Git
+#### Go to https://git-scm.com/downloads and follow the instructions
+___
+### Setting up GitHub
 
-# This is the tutorial on how to set up GithUB
+#### Go to this link : https://github.com
+#### Sign up for an account and you will be ready to go
+#### Create a repo, you have to click on the "Create New Repository" on your main GitHub page.
+#### Then you will be prompted to add a name to your repository, following which you can choose if you want your repo to be public or private.
+___
+### Installing and Setting up Webstorm
 
-# Step 1
+#### Go to https://www.jetbrains.com/student/
+#### Scroll down to Apply now
+#### Switch to the Official document tab
+#### Once completed, apply for free products
+#### You will receive an email to activate your account if qualified
+#### On the email, it will take you to a link to purchase a student pack license 
+#### Download Webstorm
+#### Log in with your account information
+#### Hit Ctrl + Alt + S on Windows to go to settings
+#### Go under “Version Control”
+#### Set up and link your Webstorm account with your GitHub account
 
-go to this link : https://github.com
-sign up for an account and you will be ready to go
+___
+## Part 2: Glossary
 
-# Step 2
+#### Branch: A repository that allows you to modify and make changes 
+#### Clone: This is used to replicate a certain repository or branch inside a repository
+#### Commit: Modifications are saved to the local repository
+#### Fetch: This uses the remote repository to retrieve the updates
+#### GIT: A software that lets you save a point as many times as you would like
+#### GitHub: An online platform that lets you host and share code repositories
+#### Merge: This mixes the modifications from one branch into another
+#### Merge Conflict: A problem that arises when information on a local file differs from what is on a remote depository
+#### Push: It adds local commits to the remote branch update
+#### Pull: It updates every remote tracking branch as well as your current local working branch
+#### Remote: It handles the collection of remotes that your local repository is tracking for you
+#### Repository: A location where project files are stored for revision
 
-## Create a repository
+___
+## References
+#### GitHub Guides: https://github.com/git-guides/git-remote
+#### WebStorm Fundamentals: Creating Your First Project: https://www.youtube.com/watch?v=_NRodG8VcMs
+#### JetBrains Webstorm Documentation: https://www.jetbrains.com/help/webstorm/meet-webstorm.html
+#### GitHub Docs: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/about-collaborative-development-models
 
-To create a repo, you have to click on the "Create New Repository" on your main GitHub page.
-Then you will be prompted to add a name to your repository, following which you can choose if you want your repo to be public or private.
-
-# Step 3 
-
-## Clone your repo into your environment
-
-To clone your current repository GiThub Provides you with a special link that is directed to the repo, copy that link and then proceed with your terminal
-
-## Setting up your terminal
-To use GitHub you have to set your config files with your email and username on your GitHub account
-
-by typing the commands " git --config user.email/name" you will be prompted to add these values. 
-
-After these values are validated then we can proceed with the cloning
-
-## FInalize cloning 
-
-given that an URL " https://github.com/andrestovio/A02.git ", you can simply type the command 
-
-" git clone "link_addres" " in order to clone your entire repository in your terminal.
-
-# Step 4 
-
-## Edit and push your files
-
-open the GitHub folder in Webstorm and edit them as pleased then in order to send the changes to our GitHub Account type the following:
-"git add . " -> this will add all the files that have been changed
-"git commit -m "message" " -> this allows us to create a message to our changes before sending to your Account
-"git push " -> this will add the files to our GitHub
-
-# That is all the basic setup needed in order to start using GitHub
